@@ -3,6 +3,7 @@
 </div>
 Edits
 <div align="center">
+update
 
   <h1> 30 Days Of React</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
